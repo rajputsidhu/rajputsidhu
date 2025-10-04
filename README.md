@@ -12,7 +12,6 @@
 
 - 🧠 Building a recommendation engine using **PyTorch** for a personal project.
 - 💻 Architecting a scalable backend for a new web app with **Node.js & Express**.
-- 🌱 Contributing to [Name of an Open Source Project] to improve its core features.
 - 💡 Learning about containerization with **Docker** and CI/CD pipelines.
 
 ---
