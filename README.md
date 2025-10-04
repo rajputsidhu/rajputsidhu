@@ -79,19 +79,8 @@
 
 ---
 
-### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajputsidhu&theme=onedark&row=1&column=7&margin-w=15&margin-h=15" />
-</p>
 
----
-
-### 🐍 Just for Fun
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajputsidhu/rajputsidhu/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 ---
 <p align="center">
