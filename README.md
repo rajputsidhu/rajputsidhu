@@ -69,7 +69,7 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Commits-147%2B-00F763?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Commits-150%2B-00F763?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
